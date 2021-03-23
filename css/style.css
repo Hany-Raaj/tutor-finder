@@ -1,7 +1,14 @@
-body{
-    background-image: url(../img/book.jpg);
-}
-
 #search-input{
     margin-top: 150px;
+}
+
+form{
+    border: 1px solid gray;
+    border-radius: 8px;
+    padding: 40px;
+    width: 200px;
+}
+
+.main{
+    padding: 50px;
 }
